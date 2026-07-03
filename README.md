@@ -1,6 +1,10 @@
 <h1 align="center">Michel Feijó</h1>
 <h3 align="center">Desenvolvedor Full-Stack · TypeScript · React · Node.js · Oracle · Docker</h3>
 
+<p align="center">
+  🔗 <a href="https://michelfeijo.github.io/michel-feijo-portfolio/"><b>Portfólio</b></a>
+</p>
+
 <br/>
 
 Desenvolvedor Full-Stack com mais de 4 anos de experiência em ambiente corporativo de grande porte, liderando o ciclo completo de desenvolvimento — da concepção ao deploy em produção. Atuo com foco em automação de processos internos, integrações com ERPs e sistemas de alta disponibilidade para redes varejistas.
@@ -96,5 +100,6 @@ Dashboards e análise de dados com Power BI, administração de plataforma EAD c
 
 ## 📬 Contato
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_site-FFCA28?style=flat&logo=googlechrome&logoColor=black)](https://michelfeijo.github.io/michel-feijo-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michel--feijo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/michel-feijo-77290a348)
 [![Email](https://img.shields.io/badge/Email-michel.superacao@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michel.superacao@gmail.com)
